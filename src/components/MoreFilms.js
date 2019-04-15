@@ -4,8 +4,8 @@ class MoreFilms extends Component {
   render() {
     return(
       <div className="film">
-        <button >
-          <h2>Click to view more films</h2>
+        <button><a href="https://www.imdb.com/calendar/?region=gb">
+          <h2>Click to view more films</h2></a>
         </button>
       </div>
     )
