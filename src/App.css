@@ -19,6 +19,15 @@
   color: white;
 }
 
+
+.film-box {
+  border-style: solid;
+  border-color: #black;
+  border-width: thin;
+  width: 400px;
+}
+
+
 .App-link {
   color: #61dafb;
 }
